@@ -1,0 +1,27 @@
+.container{
+    margin-top: 50px;
+    width: 100%;
+}
+.header{
+    text-align: center;
+    height:45px;
+    line-height: 45px;
+    background: linear-gradient(to bottom, #C0C9D4, #79818F);
+    color:white;
+    margin-bottom: 15px;
+}
+.left{
+    width: 25%;
+    padding-right:10px;
+    height:400px;
+    float:left;
+    position: relative;
+}
+.right{
+    width:75%;
+    float:right;
+    background-color: #fff;
+    height:400px;
+    padding-bottom:10px;
+    overflow: hidden;
+}

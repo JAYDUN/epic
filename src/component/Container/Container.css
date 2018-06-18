@@ -1,0 +1,18 @@
+.container{
+    padding-top:50px;
+    width:60%;
+    margin:auto;
+
+
+}
+.title{
+    margin:0;
+    font-size:55px;
+    color:white;
+    font-style:italic;
+}
+.intro{
+    color:#8FFFEE;
+    width: 55%;
+    margin-top:10px;
+}
