@@ -12,8 +12,8 @@ app.use(bodyParser());
 const db = knex({
     client: 'pg',
     connection: {
-        host : '127.0.0.1',
-        user : 'jianshuaz',
+        host : '127.0.0.1',//localhost
+        user : 'jianshuaz',//update this to your computer user name
         password : '',
         database : 'column'
     }
